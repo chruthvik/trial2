@@ -1,0 +1,34 @@
+.bg{
+    background-color:slategray;
+    text-align: center;
+    padding: 15px;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.bg2{
+    background-color: azure;
+    text-align: center;
+    
+    width: 500px;
+    margin-left: 500px;
+    padding: 30px;
+}
+.pad{
+
+    padding: 10px;
+}
+.mg{
+
+
+    
+}
+.btn{
+    background-color: blue;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
